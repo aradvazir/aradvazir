@@ -35,10 +35,10 @@
   - **Tools Used:** Hugging Face Transformers, Persian BERT, and NLP libraries like hazm.  
   - **Results:** Achieved 93% accuracy with BERT and provided comparisons to simpler models like Naive Bayes (99%) and SVM (87%).  
 
-- **[Front-End Portfolio Project](https://github.com/aradvazir/FrontEndPortfolio):**  
-  - **Objective:** Created an interactive portfolio website to showcase my projects and skills.  
-  - **Tools Used:** HTML, CSS, JavaScript, and React.  
-  - **Features:** Designed responsive layouts, implemented dynamic project filtering, and integrated GitHub API for live project updates.  
+- **[Polymer Project](https://github.com/aradvazir/polymer_proj):**  
+  - **Objective:** Developed a web-based solution using Polymer to build reusable and customizable components for user interfaces.  
+  - **Tools Used:** Polymer, JavaScript, HTML, CSS.  
+  - **Features:** Created modular, scalable components for efficient front-end development with a focus on flexibility and ease of integration.  
 
 ---
 
