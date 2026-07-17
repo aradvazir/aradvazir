@@ -30,6 +30,7 @@ Medical Image Analysis · Deep Learning for Healthcare · Biomedical Signal Proc
 
 ---
 ### 🧠 Bachelor's thesis
+
 **[Moment_EEG — Deep Learning-based Emotion Detection from EEG](https://github.com/aradvazir/Moment_EEG)
 
 Explores using **MOMENT**, a time-series
