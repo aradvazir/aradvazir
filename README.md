@@ -26,7 +26,7 @@ I'm a Data Science & AI master's student working on **reliable, clinically meani
 
 ### 🔬 Research Interests
 
-Medical Image Analysis · Deep Learning for Healthcare · Biomedical Signal Processing (EEG/ECG) · Self-Supervised & Representation Learning · Generative Modeling · Trustworthy, Clinically Meaningful AI
+Medical Image Analysis · Deep Learning for Healthcare · Biomedical Signal Processing · Self-Supervised & Representation Learning · Generative Modeling · Trustworthy, Clinically Meaningful AI
 
 ---
 ### 🧠 Bachelor's Thesis
