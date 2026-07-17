@@ -29,7 +29,7 @@ I'm a Data Science & AI master's student working on **reliable, clinically meani
 Medical Image Analysis · Deep Learning for Healthcare · Biomedical Signal Processing (EEG/ECG) · Self-Supervised & Representation Learning · Generative Modeling · Trustworthy, Clinically Meaningful AI
 
 ---
-### 🧠 Moment_EEG — Deep Learning-based Emotion Detection from EEG
+### 🧠 [Moment_EEG — Deep Learning-based Emotion Detection from EEG](https://github.com/aradvazir/Moment_EEG)
 
 Bachelor's thesis (University of Tehran). Explores using **MOMENT**, a time-series
 foundation model, as a feature extractor for **EEG emotion recognition** on the
@@ -39,8 +39,6 @@ the PGCN reference model.
 - **Best result:** ~48% accuracy (PSD + MLP), subject-dependent on SEED-V
 - **Stack:** Python · PyTorch · momentfm · scikit-learn · MNE
 - 📄 Includes the full thesis report
-
-🔗 **[aradvazir/Moment_EEG](https://github.com/aradvazir/Moment_EEG)**
 ---
 
 ### 🌟 Featured Projects
