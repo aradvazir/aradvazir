@@ -29,8 +29,8 @@ I'm a Data Science & AI master's student working on **reliable, clinically meani
 Medical Image Analysis · Deep Learning for Healthcare · Biomedical Signal Processing (EEG/ECG) · Self-Supervised & Representation Learning · Generative Modeling · Trustworthy, Clinically Meaningful AI
 
 ---
-### Bachelor's thesis
-**🧠 [Moment_EEG — Deep Learning-based Emotion Detection from EEG](https://github.com/aradvazir/Moment_EEG)
+### 🧠 Bachelor's thesis
+**[Moment_EEG — Deep Learning-based Emotion Detection from EEG](https://github.com/aradvazir/Moment_EEG)
 
 Explores using **MOMENT**, a time-series
 foundation model, as a feature extractor for **EEG emotion recognition** on the
